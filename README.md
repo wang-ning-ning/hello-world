@@ -3,4 +3,4 @@ This is my first repostitory
 
 hi,there
 
-This is the readme-edits branch.
+It is my first commit.
